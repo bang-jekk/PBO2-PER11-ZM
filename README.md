@@ -6,3 +6,4 @@ berikut link video Demo nya :
 https://youtu.be/xKmlTtxfbpc?si=d7EzSaMknPhcjRsA
 
 berikut link Github nya :
+https://github.com/bang-jekk/PBO2-PER11-ZM/tree/main/src/main/java/com/mycompany/boilerplatejavafxdashboard
